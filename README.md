@@ -2,7 +2,6 @@
 
 A full-stack web application that lets users browse, preview, and request custom 3D models — powered by AI search and an interactive in-browser 3D viewer.
 
-Live Website on vercel: https://deknek-assessment.vercel.app/
 
 ## 🚀 Features
 
@@ -65,11 +64,15 @@ ANTHROPIC_API_KEY=your_claude_api_key
 
 ## 🌐 Live Demo
 
-👉 View Live Site
+https://deknek-assessment.vercel.app/
 
 ## 📸 Screenshots
 
   <img width="1909" height="925" alt="image" src="https://github.com/user-attachments/assets/a42f2690-7f80-4830-aea8-886f6f24cf61" />
+  <img width="1913" height="921" alt="image" src="https://github.com/user-attachments/assets/9403445c-a855-415e-9222-1a9ada6aab10" />
+  <img width="1898" height="912" alt="image" src="https://github.com/user-attachments/assets/31018f81-46a4-4187-9d08-58f33cf4f3fa" />
+
+
 
 
 ## 👤 Built By
