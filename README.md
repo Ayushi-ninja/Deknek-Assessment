@@ -69,7 +69,8 @@ ANTHROPIC_API_KEY=your_claude_api_key
 
 ## 📸 Screenshots
 
-*(Add screenshots of landing page, models page, 3D viewer, and admin panel here)*
+  <img width="1909" height="925" alt="image" src="https://github.com/user-attachments/assets/a42f2690-7f80-4830-aea8-886f6f24cf61" />
+
 
 ## 👤 Built By
 
