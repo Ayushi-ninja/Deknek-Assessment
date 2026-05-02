@@ -2,6 +2,8 @@
 
 A full-stack web application that lets users browse, preview, and request custom 3D models — powered by AI search and an interactive in-browser 3D viewer.
 
+Live Website on vercel: https://deknek-assessment.vercel.app/
+
 ## 🚀 Features
 
 *   **🔐 Authentication** — Secure email/password login & signup via Supabase Auth
